@@ -17,8 +17,12 @@ Here are some of the key visualizations from the analysis:
 Survival Rate by Gender: A bar chart comparing the survival rates of males and females.
 Passenger Age Distribution: A histogram showing the age distribution of passengers.
 Class and Fare Analysis: A boxplot visualizing the relationship between passenger class and fare prices.
+
+
 📁 Repository Structure
 
 notebooks/ - Contains the Jupyter Notebook used for the analysis.
+
 data/ - The Titanic dataset used in the project.
+
 README.md - This document.
